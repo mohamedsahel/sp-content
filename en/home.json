@@ -1,0 +1,83 @@
+{
+  "hero": {
+    "title": ["Palestine our kadia", "we are shourafa"],
+    "slider": {
+      "images": ["https://i.imgur.com/C29ObOJ.jpg", "https://i.imgur.com/OXQeixi.jpg", "https://i.imgur.com/Jh9Uyrv.jpg"],
+      "duration": 5000
+    }
+  },
+  "how": {
+    "title": "How to support Palestine?",
+    "subTitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae animi ipsum distinctio. Dolor totam magni ex. Necessitatibus culpa fugit officia"
+  },
+  "ways": {
+    "donation": {
+      "text": "Donation",
+      "content": {
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae animi ipsum distinctio. Dolor totam magni ex. Necessitatibus culpa fugit officia",
+        "list": [
+          {
+            "title": "United Socity Association",
+            "url": "https://mohamedsahel.com",
+            "imageUrl": ""
+          },
+          {
+            "title": "United Socity Association",
+            "url": "https://mohamedsahel.com",
+            "imageUrl": ""
+          },
+          {
+            "title": "United Socity Association",
+            "url": "https://mohamedsahel.com",
+            "imageUrl": ""
+          }
+        ]
+      }
+    },
+    "content": {
+      "text": "Create content",
+      "content": {
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae animi ipsum distinctio. Dolor totam magni ex. Necessitatibus culpa fugit officia",
+        "list": [
+          {
+            "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae animi ipsum distinctio"
+          },
+          {
+            "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae animi ipsum distinctio"
+          },
+          {
+            "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae animi ipsum distinctio"
+          }
+        ]
+      }
+    },
+    "engagment": {
+      "text": "Effective engagment",
+      "content": {
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae animi ipsum distinctio. Dolor totam magni ex. Necessitatibus culpa fugit officia",
+        "list": [
+          {
+            "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae animi ipsum distinctio",
+            "imageUrl": ""
+          },
+          {
+            "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae animi ipsum distinctio",
+            "imageUrl": ""
+          },
+          {
+            "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae animi ipsum distinctio",
+            "imageUrl": ""
+          }
+        ]
+      }
+    }
+  },
+  "conclusion": {
+    "title": ["Dont' forget them on your prays", "Because, Night arrows don't miss"]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subTitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae animi ipsum distinctio. Dolor totam magni ex. Necessitatibus culpa fugit officia",
+    "email": "contact@support-palestine.com"
+  }
+}
