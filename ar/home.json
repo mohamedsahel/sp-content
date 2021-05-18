@@ -8,20 +8,16 @@
   },
   "how": {
     "title": "كيف أدعم فلسطين؟",
-    "subTitle": "بمجموعة من الطرق التي تستطيع من خلالها دعم اهل غزة وفلسطين دعم فلسطين واجب شرعي و انساني .. وهذه لائحة"
+    "subTitle": "هذه لائحة تضم مجموعة من المؤسسات التي تجمع التبرعات من أجل مساعدة إخواننا في فلسطين, خصوصا القدس وغزة"
   },
   "ways": {
     "donation": {
       "title": "التبرع",
-      "contentUrl": "https://raw.githubusercontent.com/mohamedsahel/sp-content/main/ar/ways/donation.mdx"
+      "contentUrl": "https://raw.githubusercontent.com/mohamedsahel/sp-content/main/ar/ways/donation.md"
     },
-    "content": {
-      "title": "صناعة المحتوى",
-      "contentUrl": "https://raw.githubusercontent.com/mohamedsahel/sp-content/main/ar/ways/donation.mdx"
-    },
-    "engagment": {
+    "interaction": {
       "title": "التفاعل",
-      "contentUrl": "https://raw.githubusercontent.com/mohamedsahel/sp-content/main/ar/ways/donation.mdx"
+      "contentUrl": "https://raw.githubusercontent.com/mohamedsahel/sp-content/main/ar/ways/interaction.md"
     }
   },
   "conclusion": {
@@ -29,7 +25,7 @@
   },
   "contact": {
     "title": "تواصل معنا",
-    "subTitle": "بمجموعة من الطرق التي تستطيع من خلالها دعم اهل غزة وفلسطين دعم فلسطين واجب شرعي و انساني .. وهذه لائحة",
+    "subTitle": "إذا كان لديك أي سؤال, اقتراح او ملاحظة, او تود تقديم مساعدة لفريق الموقع ( كالترجمة او الصور او المحتوى ) .. رجاءا راسلنا عبر الايميل التالي",
     "email": "contact@support-palestine.com"
   }
 }

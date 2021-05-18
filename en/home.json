@@ -1,6 +1,6 @@
 {
   "hero": {
-    "title": ["Palestine our kadia", "we are shourafa"],
+    "title": ["Palestine is the cause of every Muslim", "The cause of every human being"],
     "slider": {
       "images": ["https://i.imgur.com/M8BI3I4.jpg", "https://i.imgur.com/lcwEe14.jpg", "https://i.imgur.com/juazBL7.jpg", "https://i.imgur.com/wra0vyx.jpg", "https://i.imgur.com/7NwOkJl.jpg", "https://i.imgur.com/KVQeAwc.jpg", "https://i.imgur.com/uoA4Bzx.png", "https://i.imgur.com/r7g74br.jpg"],
       "duration": 5000
@@ -8,28 +8,23 @@
   },
   "how": {
     "title": "How to support Palestine?",
-    "subTitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae animi ipsum distinctio. Dolor totam magni ex. Necessitatibus culpa fugit officia"
+    "subTitle": "There are unlimited way to support Palestine and Palestinians, it starts from military support to supplication, But we tried to limit the mention only to the ways available to most people."
   },
   "ways": {
     "donation": {
       "title": "Donation",
-      "contentUrl": "https://raw.githubusercontent.com/mohamedsahel/sp-content/main/ar/ways/donation.mdx"
+      "contentUrl": "https://raw.githubusercontent.com/mohamedsahel/sp-content/main/en/ways/donation.md"
     },
-    "content": {
-      "title": "Content creation",
-      "contentUrl": "https://raw.githubusercontent.com/mohamedsahel/sp-content/main/ar/ways/donation.mdx"
-    },
-    "engagment": {
-      "title": "Effective engagment",
-      "contentUrl": "https://raw.githubusercontent.com/mohamedsahel/sp-content/main/ar/ways/donation.mdx"
+    "interaction": {
+      "title": "Effective interaction",
+      "contentUrl": "https://raw.githubusercontent.com/mohamedsahel/sp-content/main/en/ways/interaction.md"
     }
   },
   "conclusion": {
-    "title": ["Dont' forget them on your prays", "Because, Night arrows don't miss"]
+    "title": ["Do not forget them in your prayers", "Nothing stops fate like supplication"]
   },
   "contact": {
     "title": "Contact Us",
-    "subTitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae animi ipsum distinctio. Dolor totam magni ex. Necessitatibus culpa fugit officia",
-    "email": "contact@support-palestine.com"
+    "subTitle": "If you have any question, suggestion, or note, or would like to provide help to the site's team (such as translation, images, or content), Please feel freeto  contact us via the following email"
   }
 }
