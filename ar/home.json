@@ -1,79 +1,31 @@
 {
   "hero": {
-    "title": ["فلسطين قضيتنا جميعا", "نحن الشرفاء"],
+    "title": ["فلسطين قضية كل مسلم", "قضية كل انسان"],
     "slider": {
       "images": ["https://i.imgur.com/M8BI3I4.jpg", "https://i.imgur.com/lcwEe14.jpg", "https://i.imgur.com/juazBL7.jpg", "https://i.imgur.com/wra0vyx.jpg", "https://i.imgur.com/7NwOkJl.jpg", "https://i.imgur.com/KVQeAwc.jpg", "https://i.imgur.com/uoA4Bzx.png", "https://i.imgur.com/r7g74br.jpg"],
       "duration": 5000
     }
   },
   "how": {
-    "title": "كيف ادعم فلسطين؟",
+    "title": "كيف أدعم فلسطين؟",
     "subTitle": "بمجموعة من الطرق التي تستطيع من خلالها دعم اهل غزة وفلسطين دعم فلسطين واجب شرعي و انساني .. وهذه لائحة"
   },
   "ways": {
     "donation": {
-      "text": "التبرع",
-      "content": {
-        "description": "بمجموعة من الطرق التي تستطيع من خلالها دعم اهل غزة وفلسطين دعم فلسطين واجب شرعي و انساني .. وهذه لائحة",
-        "list": [
-          {
-            "title": "الجمعية العامة لحماية القدس",
-            "url": "https://mohamedsahel.com",
-            "imageUrl": ""
-          },
-          {
-            "title": "الجمعية العامة لحماية القدس",
-            "url": "https://mohamedsahel.com",
-            "imageUrl": ""
-          },
-          {
-            "title": "الجمعية العامة لحماية القدس",
-            "url": "https://mohamedsahel.com",
-            "imageUrl": ""
-          }
-        ]
-      }
+      "title": "التبرع",
+      "contentUrl": "https://raw.githubusercontent.com/mohamedsahel/sp-content/main/ar/ways/donation.mdx"
     },
     "content": {
-      "text": "صناعة المحتوى",
-      "content": {
-        "description": "بمجموعة من الطرق التي تستطيع من خلالها دعم اهل غزة وفلسطين دعم فلسطين واجب شرعي و انساني .. وهذه لائحة",
-        "list": [
-          {
-            "title": "من الطرق التي تستطيع من خلالها دعم اهل غزة وفلسطين دعم فلسطين واجب شرعي و انساني"
-          },
-          {
-            "title": "من الطرق التي تستطيع من خلالها دعم اهل غزة وفلسطين دعم فلسطين واجب شرعي و انساني"
-          },
-          {
-            "title": "من الطرق التي تستطيع من خلالها دعم اهل غزة وفلسطين دعم فلسطين واجب شرعي و انساني"
-          }
-        ]
-      }
+      "title": "صناعة المحتوى",
+      "contentUrl": "https://raw.githubusercontent.com/mohamedsahel/sp-content/main/ar/ways/donation.mdx"
     },
     "engagment": {
-      "text": "التفاعل",
-      "content": {
-        "description": "بمجموعة من الطرق التي تستطيع من خلالها دعم اهل غزة وفلسطين دعم فلسطين واجب شرعي و انساني .. وهذه لائحة",
-        "list": [
-          {
-            "title": "الطرق التي تستطيع من خلالها دعم اهل غزة وفلسطين دعم فلسطين واجب شرعي",
-            "imageUrl": ""
-          },
-          {
-            "title": "الطرق التي تستطيع من خلالها دعم اهل غزة وفلسطين دعم فلسطين واجب شرعي",
-            "imageUrl": ""
-          },
-          {
-            "title": "الطرق التي تستطيع من خلالها دعم اهل غزة وفلسطين دعم فلسطين واجب شرعي",
-            "imageUrl": ""
-          }
-        ]
-      }
+      "title": "التفاعل",
+      "contentUrl": "https://raw.githubusercontent.com/mohamedsahel/sp-content/main/ar/ways/donation.mdx"
     }
   },
   "conclusion": {
-    "title": ["لا تنسوهم من دعائكم","فسهام الليل لا تخطئ"]
+    "title": ["لا تنسوهم من دعائكم","فلا يرد القدر شئ كالدعاء"]
   },
   "contact": {
     "title": "تواصل معنا",
