@@ -1,31 +1,34 @@
 {
-  "hero": {
-    "title": ["فلسطين قضية كل مسلم", "قضية كل انسان"],
-    "slider": {
-      "images": ["https://i.imgur.com/M8BI3I4.jpg", "https://i.imgur.com/lcwEe14.jpg", "https://i.imgur.com/juazBL7.jpg", "https://i.imgur.com/wra0vyx.jpg", "https://i.imgur.com/7NwOkJl.jpg", "https://i.imgur.com/KVQeAwc.jpg", "https://i.imgur.com/uoA4Bzx.png", "https://i.imgur.com/r7g74br.jpg"],
-      "duration": 5000
-    }
+  "promobar": {
+    "active": false,
+    "color": "",
+    "content": [
+      "text here because we have nothing to lose",
+      {
+        "text": "hi there",
+        "href": "https://mohamedsahel.com"
+      }
+    ]
   },
-  "how": {
-    "title": "كيف أدعم فلسطين؟",
-    "subTitle": "هذه لائحة تضم مجموعة من المؤسسات التي تجمع التبرعات من أجل مساعدة إخواننا في فلسطين, خصوصا القدس وغزة"
-  },
-  "ways": {
-    "donation": {
-      "title": "التبرع",
-      "contentUrl": "https://raw.githubusercontent.com/mohamedsahel/sp-content/main/ar/ways/donation.md"
+  "hashtags": ["free_palestine", "gaza_under_attack"],
+  "list": [
+    {
+      "imageUrl": "https://i.imgur.com/M8BI3I4.jpg",
+      "title": "جمعية نماء الكويتية",
+      "description": "",
+      "link": ""
     },
-    "interaction": {
-      "title": "التفاعل",
-      "contentUrl": "https://raw.githubusercontent.com/mohamedsahel/sp-content/main/ar/ways/interaction.md"
+    {
+      "imageUrl": "https://i.imgur.com/lcwEe14.jpg",
+      "title": "مؤسسة فردوس لحماية الاطفال",
+      "description": "",
+      "link": ""
+    },
+    {
+      "imageUrl": "https://i.imgur.com/juazBL7.jpg",
+      "title": "جمعية عطاء المغربية",
+      "description": "",
+      "link": ""
     }
-  },
-  "conclusion": {
-    "title": ["لا تنسوهم من دعائكم","فلا يرد القدر شئ كالدعاء"]
-  },
-  "contact": {
-    "title": "تواصل معنا",
-    "subTitle": "إذا كان لديك أي سؤال, اقتراح او ملاحظة, او تود تقديم مساعدة لفريق الموقع ( كالترجمة او الصور او المحتوى ) .. رجاءا راسلنا عبر الايميل التالي",
-    "email": "contact@support-palestine.com"
-  }
+  ]
 }

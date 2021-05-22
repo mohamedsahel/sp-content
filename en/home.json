@@ -1,31 +1,34 @@
 {
-  "hero": {
-    "title": ["Palestine is the cause of every Muslim", "The cause of every human being"],
-    "slider": {
-      "images": ["https://i.imgur.com/M8BI3I4.jpg", "https://i.imgur.com/lcwEe14.jpg", "https://i.imgur.com/juazBL7.jpg", "https://i.imgur.com/wra0vyx.jpg", "https://i.imgur.com/7NwOkJl.jpg", "https://i.imgur.com/KVQeAwc.jpg", "https://i.imgur.com/uoA4Bzx.png", "https://i.imgur.com/r7g74br.jpg"],
-      "duration": 5000
-    }
+  "promobar": {
+    "active": false,
+    "color": "",
+    "content": [
+      "text here because we have nothing to lose",
+      {
+        "text": "hi there",
+        "href": "https://mohamedsahel.com"
+      }
+    ]
   },
-  "how": {
-    "title": "How to support Palestine?",
-    "subTitle": "There are unlimited way to support Palestine and Palestinians, it starts from military support to supplication, But we tried to limit the mention only to the ways available to most people."
-  },
-  "ways": {
-    "donation": {
-      "title": "Donation",
-      "contentUrl": "https://raw.githubusercontent.com/mohamedsahel/sp-content/main/en/ways/donation.md"
+  "hashtags": ["free_palestine", "gaza_under_attack"],
+  "list": [
+    {
+      "imageUrl": "https://i.imgur.com/M8BI3I4.jpg",
+      "title": "جمعية نماء الكويتية",
+      "description": "",
+      "link": ""
     },
-    "interaction": {
-      "title": "Effective interaction",
-      "contentUrl": "https://raw.githubusercontent.com/mohamedsahel/sp-content/main/en/ways/interaction.md"
+    {
+      "imageUrl": "https://i.imgur.com/lcwEe14.jpg",
+      "title": "مؤسسة فردوس لحماية الاطفال",
+      "description": "",
+      "link": ""
+    },
+    {
+      "imageUrl": "https://i.imgur.com/juazBL7.jpg",
+      "title": "جمعية عطاء المغربية",
+      "description": "",
+      "link": ""
     }
-  },
-  "conclusion": {
-    "title": ["Do not forget them in your prayers", "Nothing stops fate like supplication"]
-  },
-  "contact": {
-    "title": "Contact Us",
-    "subTitle": "If you have any question, suggestion, or note, or would like to provide help to the site's team (such as translation, images, or content), Please feel freeto  contact us via the following email",
-    "email": "contact@support-palestine.com"
-  }
+  ]
 }
